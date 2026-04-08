@@ -22,19 +22,15 @@ Este proyecto analiza la relación entre el Producto Interno Bruto (PIB) y los i
 
 
 ###  Herramientas Utilizadas
-Lenguaje: Python 3.x
-
-Librerías de Datos: Pandas, NumPy
-
-Visualización: Matplotlib, Seaborn
-
-Base de Datos: Python (Extracción y limpieza inicial)
-
-Documentación: Markdown
+![Python](https://img.shields.io/badge/PYTHON-00599C?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge&logo=python&logoColor=white)
 
 
-
-### 📈 Hallazgos Principales 
+###  Hallazgos Principales 
 <p align="center">
   <img src="visuals/grafica.png" alt="Distribución del PIB percápita" width="100%">
 </p>
