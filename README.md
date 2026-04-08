@@ -12,9 +12,9 @@ Visualización de datos y narración de historias usando Google Shehet / Excel
 ***Habilidades blandas***
 Análisis de datos | Resolución de problemas | Comunicación efectiva | Trabajo en equipo | Orientación a resultados | Organización | Proactividad | Atención al detalle | Optimización de Procesos
 
-# PROYECTOS SELECCIONADOS
+# Proyectos seleccionados
 
-1️⃣ ### Análisis de Movilidad vs. Desarrollo Económico (PIB)
+### 1️⃣  Análisis de Movilidad vs. Desarrollo Económico (PIB)
 Este proyecto analiza la relación entre el Producto Interno Bruto (PIB) y los indicadores de movilidad, específicamente el retraso en minutos, para identificar cómo el desarrollo económico impacta, o se ve impactado por la eficiencia en el transporte.
 <p align="center">
   <img src="visuals/banner_proyecto.png" alt="Movilidad vs Desarrollo Económico" width="100%">
