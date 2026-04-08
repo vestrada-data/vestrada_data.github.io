@@ -5,11 +5,12 @@
 Apasionada por transformar datos crudos en decisiones estratégicas. Mi enfoque combina la ingeniería de sistemas con el análisis exploratorio de datos (EDA) para optimizar procesos operativos.
 
 ***Habilidades tecnológicas***
-Habilidades tecnológicas
+
 Análisis y gestión de datos utilizando Excel / SQL / Python 
 Visualización de datos y narración de historias usando Google Shehet / Excel 
 
 ***Habilidades blandas***
+
 Análisis de datos | Resolución de problemas | Comunicación efectiva | Trabajo en equipo | Orientación a resultados | Organización | Proactividad | Atención al detalle | Optimización de Procesos
 
 # Proyectos seleccionados
