@@ -3,19 +3,18 @@
 
 # Acerca de mí  
  
-Apasionada por transformar datos crudos en decisiones estratégicas. Mi enfoque combina la ingeniería de sistemas con el análisis de información, definición de KPIs y generación de reportes para toma de decisiones. He liderado equipos multidisciplinarios implementando sistemas de seguimiento y tableros de control para mejorar desempeño operativo y académico.
+“Analizo y transformo datos en indicadores y dashboards para facilitar la toma de decisiones. Mi enfoque combina la ingeniería en sistemas con la definición de KPIs y la visualización de información para optimizar procesos.
+
+He liderado equipos multidisciplinarios e implementado sistemas de seguimiento para monitorear el desempeño operativo y académico, identificando oportunidades de mejora.
+
+Cuento con experiencia en herramientas como SQL, Python, Google Sheets y visualización de datos.
 
 ***Habilidades tecnológicas*** <br>
 •	SQL (consultas, JOINs, transformación de datos) | Excel / Google Sheets (análisis, dashboards) 
   Python (Pandas, limpieza y EDA) |  KPI Analysis  <br>
 - Análisis y gestión de datos utilizando Excel / SQL / Python <br>
 - Visualización de datos y narración de historias usando Google Sheets / Excel / Power Bi (básico)<br>
-
-***Habilidades *** <br>
-- Pensamiento analítico| Resolución de problemas| Comunicación con stakeholders | Trabajo colaborativo | Orientación a resultados
-- Organización | Atención al detalle | Optimización de Procesos<br>
-- Inglés (C1) <br>
-- <br>
+ <br>
 email: veroerobles@gmail.com
 [LinkedIn](https://linkedin.com/in/veroestradarobles) 
 
@@ -31,7 +30,9 @@ Este proyecto analiza la relación entre el Producto Interno Bruto (PIB) y los i
 ![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge&logo=python&logoColor=white)
 
 ### Metodología
- Cruzar datos de tráfico con indicadores económicos de la OECD usando Python y Pandas.
+-Integración de datos de movilidad (TomTom) y económicos (OECD)
+-Análisis exploratorio y detección de outliers
+-Visualización de distribuciones y relaciones
 
 ### Hallazgos Principales 
 <br>
@@ -60,30 +61,21 @@ La gráfica revela que no hay una  relación directa entre el PIB per cápita y 
 <br>
 
 ## 2. Análisis de embudo y retención para e-commerce
-Análisis de datos de órdenes, productos y marketing para evaluar la rentabilidad y desempeño financiero por país.<br>
-Este análisis permite identificar puntos de abandono dentro del embudo de conversión y detectar oportunidades para mejorar la experiencia de compra y optimizar la tasa de conversión.
+Identificar puntos de abandono en el funnel y oportunidades de mejora en conversión y retención.
 
-## ⦿ Herramientas Utilizadas
+## Herramientas Utilizadas
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 
-### ⦿ Habilidades tecnológicas
-SQL (JOINs, limpieza y transformación de datos)
-KPIs financieros
-Análisis de datos
-Data Cleaning
-Análisis de KPIs
-Data Visualization
-Data Storytelling   
 
-### ⦿ Metodología
+###  Metodología
 1. Construir embudos multietapa en SQL usando CTEs.
 2. Calcular tasas de conversión entre pasos y detectar caídas.
 3. Analizar la retención de usuarios por cohortes.
 4. Simular mejoras en conversión o retención.
 5. Validar resultados y comunicar hallazgos ejecutivos.
    
-### ⦿ Hallazgos Principales 
+###  Insight:
 <p align="center">
 <img width="821" height="350" alt="tasa_conversion" src="https://github.com/user-attachments/assets/b1e37b28-f810-40fe-a573-95c7aff7517b" />
 <p/>
