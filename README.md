@@ -87,11 +87,11 @@ A partir del carrito, el funnel muestra una disminución progresiva y sostenida:
 <p align="center">
 <img width="832" height="385" alt="tasa_por_pais" src="https://github.com/user-attachments/assets/d1140a74-2899-45c3-8479-95b715aa6cf9" />
   <p/>
-En todos los mercados, la etapa select_item presenta tasas cercanas o superiores al 75%, sin embargo las diferencias y la  disminución en el avance hacia etapas finales del proceso de compra,  podrían reflejar factores como preferencias de pago, logística, precios o experiencia del usuario en cada mercado.  Se sugiere revisar especificamente situación en Paraguay ya que no se completa  el  proceso de compra.
+En todos los mercados, la etapa select_item presenta tasas cercanas o superiores al 75%, sin embargo las diferencias y la  disminución en el avance hacia etapas finales del proceso de compra,  podrían reflejar factores como preferencias de pago, logística, precios o experiencia del usuario en cada mercado.  Hay variaciones entre mercados, con Uruguay como mejor desempeño y Paraguay sin compras.
 <p align="center">
 <img width="763" height="338" alt="tasa_retencion" src="https://github.com/user-attachments/assets/8fcdaa0e-89c5-4743-a1ef-24b218f500c6" />
 <p/>
-Las cohortes muestran una retención D7 entre  80–85%, sobresaliento 2025-03.  Esto sugiere un alto nivel de interés inicial, pero la retención disminuye progresivamente hasta valor más bajo de 0.2% en 2025-08 D28. Se sugiere utilizar estrategias con un enfoque localizado, considerando factores específicos de cada mercado como métodos de pago, costos de envío o preferencias de compra.
+Las cohortes muestran una retención D7 entre  80–85%, sobresaliendo 2025-03.  Esto sugiere un alto nivel de interés inicial,  pero con caída significativa ( <4%) hacia D28(2025-08). Se sugiere utilizar estrategias con un enfoque localizado, considerando factores específicos de cada mercado como métodos de pago, costos de envío o preferencias de compra.
 <p align="center">
 <img width="758" height="409" alt="tasa_retencion2" src="https://github.com/user-attachments/assets/b816a35a-9f13-42c1-816a-b73fd2ce73db" />
 <p/>
