@@ -82,18 +82,18 @@ Data Storytelling
    
 ### Hallazgos Principales 
 <p align="center">
-<img width="479" height="209" alt="tasa_conversion" src="https://github.com/user-attachments/assets/0ac9c289-d943-4296-9b46-2543faee490e" />
+<img width="579" height="309" alt="tasa_conversion" src="https://github.com/user-attachments/assets/0ac9c289-d943-4296-9b46-2543faee490e" />
 <p/>
-La conversión total del funnel es de 1.25%, lo que indica que solo 1 de cada 100 usuarios completa una compra.
-La mayor caída ocurre en la parte alta del funnel:
-Solo el 11.0% de los usuarios que visualizan un producto lo agregan al carrito.
-A partir del carrito, el funnel muestra una disminución progresiva y sostenida:
-4.0% inicia checkout
-2.4% agrega información de envío
-2.05% llega a pago
-1.25% finaliza la compra
+La conversión total del funnel es de 1.25%, lo que indica que solo 1 de cada 100 usuarios completa una compra.<br>
+La mayor caída ocurre en la parte alta del funnel:<br>
+Solo el 11.0% de los usuarios que visualizan un producto lo agregan al carrito.<br>
+A partir del carrito, el funnel muestra una disminución progresiva y sostenida:<br>
+4.0% inicia checkout<br>
+2.4% agrega información de envío<br>
+2.05% llega a pago<br>
+1.25% finaliza la compra<br>
 <p align="center">
-<img width="483" height="230" alt="tasa_por_pais" src="https://github.com/user-attachments/assets/b046921f-fb06-4925-adb0-850224bc089d" />
+<img width="783" height="330" alt="tasa_por_pais" src="https://github.com/user-attachments/assets/b046921f-fb06-4925-adb0-850224bc089d" />
   <p/>
 En todos los mercados, la etapa select_item presenta tasas cercanas o superiores al 75%, sin embargo las diferencias y la  disminución en el avance hacia etapas finales del proceso de compra,  podrían reflejar factores como preferencias de pago, logística, precios o experiencia del usuario en cada mercado.  Se sugiere revisar especificamente situación en Paraguay ya que no se completa  el  proceso de compra.
 <p align="center">
