@@ -13,6 +13,8 @@ Apasionada por transformar datos crudos en decisiones estratégicas. Mi enfoque 
 - Pensamiento analítico| Resolución de problemas| Comunicación con stakeholders | Trabajo colaborativo | Orientación a resultados | 
 - Organización | Atención al detalle | Optimización de Procesos<br>
 
+Contacto:
+
 # Proyectos seleccionados
 
 ## 1. Análisis de Movilidad vs. Desarrollo Económico (PIB)
