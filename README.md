@@ -7,8 +7,6 @@ Analizo y transformo datos en indicadores y dashboards para facilitar la toma de
 
 He liderado equipos multidisciplinarios e implementado sistemas de seguimiento para monitorear el desempeño operativo y académico, identificando oportunidades de mejora.
 
-Cuento con experiencia en herramientas como SQL, Python, Google Sheets y visualización de datos.
-
 ***Habilidades tecnológicas*** <br>
 - SQL (consultas, JOINs, transformación de datos) 
 - Excel / Google Sheets (análisis, dashboards)
