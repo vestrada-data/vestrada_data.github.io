@@ -11,9 +11,10 @@ Apasionada por transformar datos crudos en decisiones estratégicas. Mi enfoque 
 
 ***Habilidades blandas*** <br>
 - Pensamiento analítico| Resolución de problemas| Comunicación con stakeholders | Trabajo colaborativo | Orientación a resultados | 
-- Organización | Atención al detalle | Optimización de Procesos<br>
-
-Contacto:
+- Organización | Atención al detalle | Optimización de Procesos
+- <br>
+email: veroerobles@gmail.com
+[LinkedIn](https://linkedin.com/in/veroestradarobles) 
 
 # Proyectos seleccionados
 
@@ -50,6 +51,7 @@ La gráfica revela que no hay una  relación directa entre el PIB per cápita y 
  <br>
  <br>
 
+[Proyecto completo]([https://linkedin.com/in/veroestradarobles](https://github.com/vestrada-data/data-analytics/blob/main/mobility_economy_project.ipyn)) 
 [![Portafolio](https://img.shields.io/badge/PROYECTO COMPLETO-VER_AQUÍ-blue?style=for-the-badge)](https://github.com/vestrada-data/data-analytics/blob/main/mobility_economy_project.ipyn)
 <br>
 <br>
