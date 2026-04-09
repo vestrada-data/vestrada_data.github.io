@@ -53,7 +53,7 @@ Destacan ciudades como Lima y Ciudad de México, donde hay altos niveles de cong
 ### Resultado
 Identifiqué la correlación directa entre el retraso por congestión y la caída en el desempeño económico urbano.
 
-Explora más detalles del proyecto en ![Jupyter Notebook](https://github.com/vestrada-data/data-analytics/blob/main/mobility_economy_project.ipynb))
+Explora más detalles del proyecto en ![Jupyter Notebook](https://github.com/vestrada-data/data-analytics/blob/main/mobility_economy_project.ipynb)
 
 
 2️⃣Análisis de Movilidad vs. Desarrollo Económico (PIB)
