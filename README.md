@@ -3,15 +3,18 @@
 
 # Acerca de mí  
  
-Apasionada por transformar datos crudos en decisiones estratégicas. Mi enfoque combina la ingeniería de sistemas con el análisis exploratorio de datos (EDA) para optimizar procesos operativos.
+Apasionada por transformar datos crudos en decisiones estratégicas. Mi enfoque combina la ingeniería de sistemas con el análisis de información, definición de KPIs y generación de reportes para toma de decisiones. He liderado equipos multidisciplinarios implementando sistemas de seguimiento y tableros de control para mejorar desempeño operativo y académico.
 
 ***Habilidades tecnológicas*** <br>
+•	SQL (consultas, JOINs, transformación de datos) | Excel / Google Sheets (análisis, dashboards) 
+  Python (Pandas, limpieza y EDA) |  KPI Analysis  <br>
 - Análisis y gestión de datos utilizando Excel / SQL / Python <br>
-- Visualización de datos y narración de historias usando Google Sheets / Excel 
+- Visualización de datos y narración de historias usando Google Sheets / Excel / Power Bi (básico)<br>
 
-***Habilidades blandas*** <br>
-- Pensamiento analítico| Resolución de problemas| Comunicación con stakeholders | Trabajo colaborativo | Orientación a resultados | 
-- Organización | Atención al detalle | Optimización de Procesos
+***Habilidades *** <br>
+- Pensamiento analítico| Resolución de problemas| Comunicación con stakeholders | Trabajo colaborativo | Orientación a resultados
+- Organización | Atención al detalle | Optimización de Procesos<br>
+- Inglés (C1) <br>
 - <br>
 email: veroerobles@gmail.com
 [LinkedIn](https://linkedin.com/in/veroestradarobles) 
@@ -52,7 +55,7 @@ La gráfica revela que no hay una  relación directa entre el PIB per cápita y 
  <br>
 
 [Proyecto completo]([https://linkedin.com/in/veroestradarobles](https://github.com/vestrada-data/data-analytics/blob/main/mobility_economy_project.ipyn)) 
-[![Portafolio](https://img.shields.io/badge/PROYECTO COMPLETO-VER_AQUÍ-blue?style=for-the-badge)](https://github.com/vestrada-data/data-analytics/blob/main/mobility_economy_project.ipyn)
+
 <br>
 <br>
 
