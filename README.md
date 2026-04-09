@@ -1,5 +1,5 @@
 
-<img width="1584" height="396" alt="BannerLK" src="https://github.com/user-attachments/assets/1ada83f9-b024-41a2-b7f4-e1f3709bbcc0" />
+![BannerLK](https://github.com/user-attachments/assets/958cf942-028d-4085-b80b-77ec408a2289)
 
 # Acerca de mí  
  
