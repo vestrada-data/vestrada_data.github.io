@@ -55,9 +55,44 @@ Identifiqué la correlación directa entre el retraso por congestión y la caíd
 
 Explora más detalles del proyecto en [Notebook](https://github.com/vestrada-data/data-analytics/blob/main/mobility_economy_project.ipynb)
 
-2️⃣Análisis de Movilidad vs. Desarrollo Económico (PIB)
+2️⃣Análisis de embudo y retención para e-commerce
+Análisis de datos de órdenes, productos y marketing para evaluar la rentabilidad y desempeño financiero por país.
+Este análisis permite identificar puntos de abandono dentro del embudo de conversión y detectar oportunidades para mejorar la experiencia de compra y optimizar la tasa de conversión.
 
 ##  Herramientas Utilizadas
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+
+
+### •	Habilidades tecnológicas
+SQL (JOINs, limpieza y transformación de datos)
+Excel / Google Sheets, KPIs financieros
+Análisis de datos
+Data Cleaning
+Análisis de KPIs
+Data Visualization
+Data Storytelling   
+
+### Metodología
+1. Construir embudos multietapa en SQL usando CTEs.
+2. Calcular tasas de conversión entre pasos y detectar caídas.
+3. Analizar la retención de usuarios por cohortes.
+4. Simular mejoras en conversión o retención.
+5. Validar resultados y comunicar hallazgos ejecutivos.
+   
+### Hallazgos Principales 
+
+
+<img width="479" height="209" alt="tasa_conversion" src="https://github.com/user-attachments/assets/0ac9c289-d943-4296-9b46-2543faee490e" />
+
+
+<img width="483" height="230" alt="tasa_por_pais" src="https://github.com/user-attachments/assets/b046921f-fb06-4925-adb0-850224bc089d" />
+
+<img width="449" height="223" alt="tasa_retencion" src="https://github.com/user-attachments/assets/b490589c-e637-4315-90d7-b312da8bd421" />
+
+
+<img width="442" height="244" alt="tasa_retencion2" src="https://github.com/user-attachments/assets/e8c1b3e7-724c-4842-9934-7f676ee0c207" />
+
+•	Logro: Calculé KPIs clave (ingresos, utilidad, margen y ROI) e identifiqué a EE. UU. como el mercado principal, concentrando el 34.7% de las ganancias. Desarrollé un dashboard que permitió visualizar el desempeño por país y apoyar la priorización de mercados y optimización de inversión.
+
 
