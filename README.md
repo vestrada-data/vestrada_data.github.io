@@ -25,7 +25,7 @@ Este proyecto analiza la relación entre el Producto Interno Bruto (PIB) y los i
 <p align="center">
 <img width="393" height="288" alt="banner_proyecto" src="https://github.com/user-attachments/assets/82fbcbe7-f648-42c0-8f29-c818c92f3a0b" /p>
 
-##  Herramientas Utilizadas
+## Herramientas Utilizadas
 ![Python](https://img.shields.io/badge/PYTHON-00599C?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -53,13 +53,13 @@ Destacan ciudades como Lima y Ciudad de México, donde hay altos niveles de cong
 ## Resultado
 Identifiqué la correlación directa entre el retraso por congestión y la caída en el desempeño económico urbano.
 
-Explora más detalles del proyecto en (https://github.com/vestrada-data/data-analytics/blob/main/mobility_economy_project.ipynb)
+Explora más detalles del proyecto en [Notebook](https://github.com/vestrada-data/data-analytics/blob/main/mobility_economy_project.ipynb)
 
 
 2️⃣Análisis de Movilidad vs. Desarrollo Económico (PIB)
 
 
-###  Herramientas Utilizadas
+##  Herramientas Utilizadas
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 
