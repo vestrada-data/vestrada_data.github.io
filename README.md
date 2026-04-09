@@ -28,24 +28,25 @@ Este proyecto analiza la relación entre el Producto Interno Bruto (PIB) y los i
  Cruzar datos de tráfico con indicadores económicos de la OECD usando Python y Pandas.
 
 ### Hallazgos Principales 
- Gráfico: Distribución de retrasos en movilidad (Minutos)<br>
+<br>
 <p align="center">
-<img width="546" height="217" alt="grafica" src="https://github.com/user-attachments/assets/f2d05b4c-9d80-4775-b030-52449c2e18ae" />
+<img width="646" height="317" alt="grafica" src="https://github.com/user-attachments/assets/f2d05b4c-9d80-4775-b030-52449c2e18ae" />
 </p>
-Existe un valor atípico (outlier) extremo que supera los 2500 minutos. Esto sugiere que, aunque la mayoría de las ciudades tienen retrasos moderados, algunas experimentan crisis de movilidad críticas que disparan el promedio general.
- 
+Existe un valor atípico (outlier) extremo que supera los 2500 minutos. <br>
+Esto sugiere que, aunque la mayoría de las ciudades tienen retrasos moderados, algunas experimentan crisis de movilidad críticas que disparan el promedio general.<br>
 
-Gráfico: Distribución de retrasos en movilidad (Minutos)<br>
+<br>
 <p align="center">
- <img width="320" height="276" alt="boxplot" src="https://github.com/user-attachments/assets/4bcd6f40-0a1b-4710-9228-623cb1988225" />
+ Gráfico: Distribución de retrasos en movilidad (Minutos)<br>
+ <img width="420" height="376" alt="boxplot" src="https://github.com/user-attachments/assets/4bcd6f40-0a1b-4710-9228-623cb1988225" />
 </p> 
-La mayoría de las ciudades se concentran en un rango de PIB de entre 8,000 y 15,000 USD.Existen ciudades con alto PIB y alta congestión vehicular, así como ciudades con menor PIB pero distintos niveles de tráfico. 
+La mayoría de las ciudades se concentran en un rango de PIB de entre 8,000 y 15,000 USD.Existen ciudades con alto PIB y alta congestión vehicular, así como ciudades con menor PIB pero distintos niveles de tráfico. <br>
+<br>
 <p align="center">
  <img width="550" height="357" alt="Histograma" src="https://github.com/user-attachments/assets/93f24446-151c-4ef1-af32-038bce214e13" />
 </p>
 La gráfica revela que no hay una  relación directa entre el PIB per cápita y la congestión vehicular. Un PIB alto no garantiza necesariamente una movilidad eficiente ni genera siempre caos vial. Destacan ciudades como Lima y Ciudad de México, donde hay altos niveles de congestión vehicular pero un PIB per cápita que no es de los más altos, lo que sugiere que la congestión no depende únicamente del nivel económico, sino de factores como infraestructura, planeación urbana y transporte público. <br>
-
-✥ Explora más detalles del proyecto en [Notebook](https://github.com/vestrada-data/data-analytics/blob/main/mobility_economy_project.ipynb) <br><br>
+✥ Explora más detalles del proyecto en [Notebook](https://github.com/vestrada-data/data-analytics/blob/main/mobility_economy_project.ipynb) <br>
 
 ## 2. Análisis de embudo y retención para e-commerce
 Análisis de datos de órdenes, productos y marketing para evaluar la rentabilidad y desempeño financiero por país.<br>
