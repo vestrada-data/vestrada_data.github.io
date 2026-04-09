@@ -81,18 +81,31 @@ Data Storytelling
 5. Validar resultados y comunicar hallazgos ejecutivos.
    
 ### Hallazgos Principales 
-
-
+<p align="center">
 <img width="479" height="209" alt="tasa_conversion" src="https://github.com/user-attachments/assets/0ac9c289-d943-4296-9b46-2543faee490e" />
-
-
+<p/>
+La conversión total del funnel es de 1.25%, lo que indica que solo 1 de cada 100 usuarios completa una compra.
+La mayor caída ocurre en la parte alta del funnel:
+Solo el 11.0% de los usuarios que visualizan un producto lo agregan al carrito.
+A partir del carrito, el funnel muestra una disminución progresiva y sostenida:
+4.0% inicia checkout
+2.4% agrega información de envío
+2.05% llega a pago
+1.25% finaliza la compra
+<p align="center">
 <img width="483" height="230" alt="tasa_por_pais" src="https://github.com/user-attachments/assets/b046921f-fb06-4925-adb0-850224bc089d" />
-
+  <p/>
+En todos los mercados, la etapa select_item presenta tasas cercanas o superiores al 75%, sin embargo las diferencias y la  disminución en el avance hacia etapas finales del proceso de compra,  podrían reflejar factores como preferencias de pago, logística, precios o experiencia del usuario en cada mercado.  Se sugiere revisar especificamente situación en Paraguay ya que no se completa  el  proceso de compra.
+<p align="center">
 <img width="449" height="223" alt="tasa_retencion" src="https://github.com/user-attachments/assets/b490589c-e637-4315-90d7-b312da8bd421" />
-
-
+<p/>
+Las cohortes muestran una retención D7 entre  80–85%, sobresaliento 2025-03.  Esto sugiere un alto nivel de interés inicial, pero la retención disminuye progresivamente hasta valor más bajo de 0.2% en 2025-08 D28. Se sugiere utilizar estrategias con un enfoque localizado, considerando factores específicos de cada mercado como métodos de pago, costos de envío o preferencias de compra.
+<p align="center">
 <img width="442" height="244" alt="tasa_retencion2" src="https://github.com/user-attachments/assets/e8c1b3e7-724c-4842-9934-7f676ee0c207" />
+<p/>
+Los resultados indican que las principales oportunidades de optimización se encuentran en reducir la fricción entre la vista del producto y la decisión de compra, así como en implementar estrategias que aumenten la  recurrencia de usuarios después de la primera interacción.  Asi como evaluar categoría del producto, dispositivo y tiempo de navegación para identificar los factores que influyen en el abandono en esta etapa.
 
-•	Logro: Calculé KPIs clave (ingresos, utilidad, margen y ROI) e identifiqué a EE. UU. como el mercado principal, concentrando el 34.7% de las ganancias. Desarrollé un dashboard que permitió visualizar el desempeño por país y apoyar la priorización de mercados y optimización de inversión.
+  
+Con los calculos de KPIs clave (ingresos, utilidad, margen y ROI), identifiqué a EE. UU. como el mercado principal, concentrando el 34.7% de las ganancias. 
 
 
