@@ -7,7 +7,7 @@ Apasionada por transformar datos crudos en decisiones estratégicas. Mi enfoque 
 
 ***Habilidades tecnológicas*** <br>
 - Análisis y gestión de datos utilizando Excel / SQL / Python <br>
-- Visualización de datos y narración de historias usando Google Shehet / Excel 
+- Visualización de datos y narración de historias usando Google Sheets / Excel 
 
 ***Habilidades blandas*** <br>
 - Pensamiento analítico| Resolución de problemas| Comunicación con stakeholders | Trabajo colaborativo | Orientación a resultados | 
