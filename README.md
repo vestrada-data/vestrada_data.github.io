@@ -1,7 +1,6 @@
-
-## Hola! Te doy la bienvenida a mi portafolio de proyectos de Análisis de Datos
-
-# Acerca de mí
+ <p align="right"> <img width="700" height="250" alt="Gemini_Generated_Image_9z4m7q9z4m7q9z4m" src="https://github.com/user-attachments/assets/807e24a3-53f6-4f89-905e-854e6425475c" /></p>
+# Acerca de mí  
+ 
 Apasionada por transformar datos crudos en decisiones estratégicas. Mi enfoque combina la ingeniería de sistemas con el análisis exploratorio de datos (EDA) para optimizar procesos operativos.
 
 ***Habilidades tecnológicas***<br>
@@ -9,21 +8,15 @@ Análisis y gestión de datos utilizando Excel / SQL / Python <br>
 Visualización de datos y narración de historias usando Google Shehet / Excel 
 
 ***Habilidades blandas***<br>
-◽️ Análisis de datos <br>
-◽️ Resolución de problemas <br>
-◽️ Comunicación con stakeholders <br>
-◽️ Trabajo en equipo <br>
-◽️  Orientación a resultados <br>
-◽️ Organización <br>
-◽️ Atención al detalle <br>
-◽️ Optimización de Procesos<br>
+◽️ Pensamiento analítico| Resolución de problemas| Comunicación con stakeholders | Trabajo colaborativo | Orientación a resultados | 
+◽️ Organización | Atención al detalle | Optimización de Procesos<br>
 
 #  Proyectos seleccionados
 
-## 1️⃣  Análisis de Movilidad vs. Desarrollo Económico (PIB)
+## Análisis de Movilidad vs. Desarrollo Económico (PIB)
 Este proyecto analiza la relación entre el Producto Interno Bruto (PIB) y los indicadores de movilidad, específicamente el retraso en minutos, para identificar cómo el desarrollo económico impacta, o se ve impactado por la eficiencia en el transporte.
 
-### ⦿ Herramientas Utilizadas
+### ❂ Herramientas Utilizadas
 ![Python](https://img.shields.io/badge/PYTHON-00599C?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -51,9 +44,9 @@ Destacan ciudades como Lima y Ciudad de México, donde hay altos niveles de cong
 ### ⦿ Resultado
 Identifiqué la correlación directa entre el retraso por congestión y la caída en el desempeño económico urbano.<br>
 
-🟩 Explora más detalles del proyecto en [Notebook](https://github.com/vestrada-data/data-analytics/blob/main/mobility_economy_project.ipynb) <br><br>
+✥ Explora más detalles del proyecto en [Notebook](https://github.com/vestrada-data/data-analytics/blob/main/mobility_economy_project.ipynb) <br><br>
 
-## 2️⃣ Análisis de embudo y retención para e-commerce
+##  Análisis de embudo y retención para e-commerce
 Análisis de datos de órdenes, productos y marketing para evaluar la rentabilidad y desempeño financiero por país.<br>
 Este análisis permite identificar puntos de abandono dentro del embudo de conversión y detectar oportunidades para mejorar la experiencia de compra y optimizar la tasa de conversión.
 
