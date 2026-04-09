@@ -1,39 +1,41 @@
- <p align="right"> <img width="700" height="250" alt="Gemini_Generated_Image_9z4m7q9z4m7q9z4m" src="https://github.com/user-attachments/assets/807e24a3-53f6-4f89-905e-854e6425475c" /></p>
+
+<img width="1584" height="396" alt="BannerLK" src="https://github.com/user-attachments/assets/1ada83f9-b024-41a2-b7f4-e1f3709bbcc0" />
+
 # Acerca de mí  
  
 Apasionada por transformar datos crudos en decisiones estratégicas. Mi enfoque combina la ingeniería de sistemas con el análisis exploratorio de datos (EDA) para optimizar procesos operativos.
 
-***Habilidades tecnológicas***<br>
-Análisis y gestión de datos utilizando Excel / SQL / Python <br>
-Visualización de datos y narración de historias usando Google Shehet / Excel 
+***Habilidades tecnológicas*** <br>
+- Análisis y gestión de datos utilizando Excel / SQL / Python <br>
+- Visualización de datos y narración de historias usando Google Shehet / Excel 
 
-***Habilidades blandas***<br>
-◽️ Pensamiento analítico| Resolución de problemas| Comunicación con stakeholders | Trabajo colaborativo | Orientación a resultados | 
-◽️ Organización | Atención al detalle | Optimización de Procesos<br>
+***Habilidades blandas*** <br>
+- Pensamiento analítico| Resolución de problemas| Comunicación con stakeholders | Trabajo colaborativo | Orientación a resultados | 
+- Organización | Atención al detalle | Optimización de Procesos<br>
 
-#  Proyectos seleccionados
+# Proyectos seleccionados
 
-## Análisis de Movilidad vs. Desarrollo Económico (PIB)
+## 1. Análisis de Movilidad vs. Desarrollo Económico (PIB)
 Este proyecto analiza la relación entre el Producto Interno Bruto (PIB) y los indicadores de movilidad, específicamente el retraso en minutos, para identificar cómo el desarrollo económico impacta, o se ve impactado por la eficiencia en el transporte.
 
-### ❂ Herramientas Utilizadas
+###  Herramientas Utilizadas
 ![Python](https://img.shields.io/badge/PYTHON-00599C?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge&logo=python&logoColor=white)
 
-### ⦿ Metodología
+### Metodología
  Cruzar datos de tráfico con indicadores económicos de la OECD usando Python y Pandas.
 
-### ⦿ Hallazgos Principales 
+### Hallazgos Principales 
 <p align="center">
-  Gráfico: Distribución de retrasos en movilidad (Minutos)
 <img width="546" height="217" alt="grafica" src="https://github.com/user-attachments/assets/f2d05b4c-9d80-4775-b030-52449c2e18ae" />
+   Gráfico: Distribución de retrasos en movilidad (Minutos)
 </p>
 No se encontro relación directa entre el PIB per cápita y la congestión vehicular. 
 <p align="center">
- Gráfico: Distribución de retrasos en movilidad (Minutos)<br>
  <img width="320" height="276" alt="boxplot" src="https://github.com/user-attachments/assets/4bcd6f40-0a1b-4710-9228-623cb1988225" />
+ Gráfico: Distribución de retrasos en movilidad (Minutos)<br>
 </p> 
 Existen ciudades con alto PIB y alta congestión vehicular, así como ciudades con menor PIB pero distintos niveles de tráfico. 
 <p align="center">
@@ -46,7 +48,7 @@ Identifiqué la correlación directa entre el retraso por congestión y la caíd
 
 ✥ Explora más detalles del proyecto en [Notebook](https://github.com/vestrada-data/data-analytics/blob/main/mobility_economy_project.ipynb) <br><br>
 
-##  Análisis de embudo y retención para e-commerce
+## 2. Análisis de embudo y retención para e-commerce
 Análisis de datos de órdenes, productos y marketing para evaluar la rentabilidad y desempeño financiero por país.<br>
 Este análisis permite identificar puntos de abandono dentro del embudo de conversión y detectar oportunidades para mejorar la experiencia de compra y optimizar la tasa de conversión.
 
