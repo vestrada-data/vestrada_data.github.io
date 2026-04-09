@@ -1,8 +1,7 @@
 
-## Hola! Te doy la bienvenida a mi portafolio de proyectos de Análisis de Datos.
-# Acerca de mí
-<span style="color:blue"> texto azul  </span>
+## Hola! Te doy la bienvenida a mi portafolio de proyectos de Análisis de Datos
 
+# Acerca de mí
 Apasionada por transformar datos crudos en decisiones estratégicas. Mi enfoque combina la ingeniería de sistemas con el análisis exploratorio de datos (EDA) para optimizar procesos operativos.
 
 ***Habilidades tecnológicas***<br>
@@ -10,30 +9,30 @@ Análisis y gestión de datos utilizando Excel / SQL / Python <br>
 Visualización de datos y narración de historias usando Google Shehet / Excel 
 
 ***Habilidades blandas***<br>
-⦿ Análisis de datos <br>
-⦿ Resolución de problemas <br>
-⦿ Comunicación con stakeholders <br>
-⦿ Trabajo en equipo <br>
-⦿ Orientación a resultados <br>
-⦿ Organización <br>
-⦿ Atención al detalle <br>
-⦿ Optimización de Procesos<br>
+◽️ Análisis de datos <br>
+◽️ Resolución de problemas <br>
+◽️ Comunicación con stakeholders <br>
+◽️ Trabajo en equipo <br>
+◽️  Orientación a resultados <br>
+◽️ Organización <br>
+◽️ Atención al detalle <br>
+◽️ Optimización de Procesos<br>
 
-# Proyectos seleccionados
+#  Proyectos seleccionados
 
 ## 1️⃣  Análisis de Movilidad vs. Desarrollo Económico (PIB)
 Este proyecto analiza la relación entre el Producto Interno Bruto (PIB) y los indicadores de movilidad, específicamente el retraso en minutos, para identificar cómo el desarrollo económico impacta, o se ve impactado por la eficiencia en el transporte.
 
-### Herramientas Utilizadas
+### ⦿ Herramientas Utilizadas
 ![Python](https://img.shields.io/badge/PYTHON-00599C?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge&logo=python&logoColor=white)
 
-### Metodología
-Cruzar datos de tráfico con indicadores económicos de la OECD usando Python y Pandas.
+### ⦿ Metodología
+ Cruzar datos de tráfico con indicadores económicos de la OECD usando Python y Pandas.
 
-### Hallazgos Principales 
+### ⦿ Hallazgos Principales 
 <p align="center">
   Gráfico: Distribución de retrasos en movilidad (Minutos)
 <img width="546" height="217" alt="grafica" src="https://github.com/user-attachments/assets/f2d05b4c-9d80-4775-b030-52449c2e18ae" />
@@ -49,37 +48,36 @@ Existen ciudades con alto PIB y alta congestión vehicular, así como ciudades c
 </p>
 Destacan ciudades como Lima y Ciudad de México, donde hay altos niveles de congestión vehicular pero un PIB per cápita que no es de los más altos, lo que sugiere que la congestión no depende únicamente del nivel económico, sino de factores como infraestructura, planeación urbana y transporte público. 
 
-### Resultado
-Identifiqué la correlación directa entre el retraso por congestión y la caída en el desempeño económico urbano.
+### ⦿ Resultado
+Identifiqué la correlación directa entre el retraso por congestión y la caída en el desempeño económico urbano.<br>
 
-Explora más detalles del proyecto en [Notebook](https://github.com/vestrada-data/data-analytics/blob/main/mobility_economy_project.ipynb)
+🟩 Explora más detalles del proyecto en [Notebook](https://github.com/vestrada-data/data-analytics/blob/main/mobility_economy_project.ipynb) <br><br>
 
-2️⃣Análisis de embudo y retención para e-commerce
-Análisis de datos de órdenes, productos y marketing para evaluar la rentabilidad y desempeño financiero por país.
+## 2️⃣ Análisis de embudo y retención para e-commerce
+Análisis de datos de órdenes, productos y marketing para evaluar la rentabilidad y desempeño financiero por país.<br>
 Este análisis permite identificar puntos de abandono dentro del embudo de conversión y detectar oportunidades para mejorar la experiencia de compra y optimizar la tasa de conversión.
 
-##  Herramientas Utilizadas
+## ⦿ Herramientas Utilizadas
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 
-
-### •	Habilidades tecnológicas
+### ⦿ Habilidades tecnológicas
 SQL (JOINs, limpieza y transformación de datos)
-Excel / Google Sheets, KPIs financieros
+KPIs financieros
 Análisis de datos
 Data Cleaning
 Análisis de KPIs
 Data Visualization
 Data Storytelling   
 
-### Metodología
+### ⦿ Metodología
 1. Construir embudos multietapa en SQL usando CTEs.
 2. Calcular tasas de conversión entre pasos y detectar caídas.
 3. Analizar la retención de usuarios por cohortes.
 4. Simular mejoras en conversión o retención.
 5. Validar resultados y comunicar hallazgos ejecutivos.
    
-### Hallazgos Principales 
+### ⦿ Hallazgos Principales 
 <p align="center">
 <img width="821" height="350" alt="tasa_conversion" src="https://github.com/user-attachments/assets/b1e37b28-f810-40fe-a573-95c7aff7517b" />
 <p/>
@@ -104,7 +102,5 @@ Las cohortes muestran una retención D7 entre  80–85%, sobresaliento 2025-03. 
 <p/>
 Los resultados indican que las principales oportunidades de optimización se encuentran en reducir la fricción entre la vista del producto y la decisión de compra, así como en implementar estrategias que aumenten la  recurrencia de usuarios después de la primera interacción.  Asi como evaluar categoría del producto, dispositivo y tiempo de navegación para identificar los factores que influyen en el abandono en esta etapa.
 
-  
-Con los calculos de KPIs clave (ingresos, utilidad, margen y ROI), identifiqué a EE. UU. como el mercado principal, concentrando el 34.7% de las ganancias. 
 
 
