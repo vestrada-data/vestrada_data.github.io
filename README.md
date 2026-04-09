@@ -17,6 +17,7 @@ Cuento con experiencia en herramientas como SQL, Python, Google Sheets y visuali
  <br>
 📧 veroerobles@gmail.com
 <br>
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ver%20perfil-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/veroestradarobles)
 
@@ -56,7 +57,10 @@ La mayoría de las ciudades se concentran en un rango de PIB de entre 8,000 y 15
 La gráfica revela que no hay una  relación directa entre el PIB per cápita y la congestión vehicular. Un PIB alto no garantiza necesariamente una movilidad eficiente ni genera siempre caos vial. Destacan ciudades como Lima y Ciudad de México, donde hay altos niveles de congestión vehicular pero un PIB per cápita que no es de los más altos, lo que sugiere que la congestión no depende únicamente del nivel económico, sino de factores como infraestructura, planeación urbana y transporte público. <br>
  <br>
  <br>
-Portafolio de proyectos: [Ver aquí](https://github.com/vestrada-data/data-analytics/blob/main/mobility_economy_project.ipyn)
+
+
+[![Proyecto_Completo](https://img.shields.io/badge/Proyecto completo-Ver%20aquí-0A66C2?logo=linkedin&logoColor=white)]([https://linkedin.com/in/veroestradarobles](https://github.com/vestrada-data/data-analytics/blob/main/mobility_economy_project.ipyn))
+
 <br>
 <br>
 
