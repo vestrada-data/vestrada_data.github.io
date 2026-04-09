@@ -16,7 +16,7 @@ Cuento con experiencia en herramientas como SQL, Python, Google Sheets y visuali
 - KPI Analysis  <br>
  <br>
 📧 veroerobles@gmail.com <br>
-💼 [Linkedin](https://linkedin.com/in/veroestradarobles) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://linkedin.com/in/veroestradarobles) 
 
 # Proyectos seleccionados
 
