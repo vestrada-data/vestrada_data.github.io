@@ -4,21 +4,19 @@
 
 Apasionada por transformar datos crudos en decisiones estratégicas. Mi enfoque combina la ingeniería de sistemas con el análisis exploratorio de datos (EDA) para optimizar procesos operativos.
 
-***Habilidades tecnológicas***
-
-Análisis y gestión de datos utilizando Excel / SQL / Python 
+***Habilidades tecnológicas***<br>
+Análisis y gestión de datos utilizando Excel / SQL / Python <br>
 Visualización de datos y narración de historias usando Google Shehet / Excel 
 
-***Habilidades blandas***
-
-Análisis de datos 
-Resolución de problemas 
- Comunicación con stakeholders 
-⦿ Trabajo en equipo 
-⦿ Orientación a resultados 
-⦿ Organización 
-⦿ Atención al detalle 
-⦿ Optimización de Procesos
+***Habilidades blandas***<br>
+⦿ Análisis de datos <br>
+⦿ Resolución de problemas <br>
+⦿ Comunicación con stakeholders <br>
+⦿ Trabajo en equipo <br>
+⦿ Orientación a resultados <br>
+⦿ Organización <br>
+⦿ Atención al detalle <br>
+⦿ Optimización de Procesos<br>
 
 # Proyectos seleccionados
 
@@ -27,28 +25,28 @@ Este proyecto analiza la relación entre el Producto Interno Bruto (PIB) y los i
 <p align="center">
 <img width="393" height="288" alt="banner_proyecto" src="https://github.com/user-attachments/assets/82fbcbe7-f648-42c0-8f29-c818c92f3a0b" /p>
 
-###  Herramientas Utilizadas
+##  Herramientas Utilizadas
 ![Python](https://img.shields.io/badge/PYTHON-00599C?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge&logo=python&logoColor=white)
 
-### Metodología
+## Metodología
 Cruzar datos de tráfico con indicadores económicos de la OECD usando Python y Pandas.
 
-###  Hallazgos Principales 
+##  Hallazgos Principales 
 <p align="center">
   Gráfico: Distribución de retrasos en movilidad (Minutos)
-<img width="746" height="217" alt="grafica" src="https://github.com/user-attachments/assets/f2d05b4c-9d80-4775-b030-52449c2e18ae" />
+<img width="546" height="217" alt="grafica" src="https://github.com/user-attachments/assets/f2d05b4c-9d80-4775-b030-52449c2e18ae" />
 </p>
 No se encontro relación directa entre el PIB per cápita y la congestión vehicular. 
 <p align="center">
- Gráfico: Distribución de retrasos en movilidad (Minutos)
- <img width="420" height="376" alt="boxplot" src="https://github.com/user-attachments/assets/4bcd6f40-0a1b-4710-9228-623cb1988225" />
+ Gráfico: Distribución de retrasos en movilidad (Minutos)<br>
+ <img width="320" height="276" alt="boxplot" src="https://github.com/user-attachments/assets/4bcd6f40-0a1b-4710-9228-623cb1988225" />
 </p> 
 Existen ciudades con alto PIB y alta congestión vehicular, así como ciudades con menor PIB pero distintos niveles de tráfico. 
 <p align="center">
- <img width="1001" height="634" alt="Histograma" src="https://github.com/user-attachments/assets/93f24446-151c-4ef1-af32-038bce214e13" />
+ <img width="500" height="317" alt="Histograma" src="https://github.com/user-attachments/assets/93f24446-151c-4ef1-af32-038bce214e13" />
 </p>
 Destacan ciudades como Lima y Ciudad de México, donde hay altos niveles de congestión vehicular pero un PIB per cápita que no es de los más altos, lo que sugiere que la congestión no depende únicamente del nivel económico, sino de factores como infraestructura, planeación urbana y transporte público. 
 
