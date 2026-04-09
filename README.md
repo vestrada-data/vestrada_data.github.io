@@ -3,20 +3,20 @@
 
 # Acerca de mí  
  
-“Analizo y transformo datos en indicadores y dashboards para facilitar la toma de decisiones. Mi enfoque combina la ingeniería en sistemas con la definición de KPIs y la visualización de información para optimizar procesos.
+Analizo y transformo datos en indicadores y dashboards para facilitar la toma de decisiones. Mi enfoque combina la ingeniería en sistemas con la definición de KPIs y la visualización de información para optimizar procesos.
 
 He liderado equipos multidisciplinarios e implementado sistemas de seguimiento para monitorear el desempeño operativo y académico, identificando oportunidades de mejora.
 
 Cuento con experiencia en herramientas como SQL, Python, Google Sheets y visualización de datos.
 
 ***Habilidades tecnológicas*** <br>
-•	SQL (consultas, JOINs, transformación de datos) | Excel / Google Sheets (análisis, dashboards) 
-  Python (Pandas, limpieza y EDA) |  KPI Analysis  <br>
-- Análisis y gestión de datos utilizando Excel / SQL / Python <br>
-- Visualización de datos y narración de historias usando Google Sheets / Excel / Power Bi (básico)<br>
+- SQL (consultas, JOINs, transformación de datos) 
+- Excel / Google Sheets (análisis, dashboards)
+- Python (Pandas, limpieza y EDA)
+- KPI Analysis  <br>
  <br>
-email: veroerobles@gmail.com
-[LinkedIn](https://linkedin.com/in/veroestradarobles) 
+📧 veroerobles@gmail.com
+💼[Linkedin](https://linkedin.com/in/veroestradarobles) 
 
 # Proyectos seleccionados
 
@@ -55,7 +55,7 @@ La gráfica revela que no hay una  relación directa entre el PIB per cápita y 
  <br>
  <br>
 
-[Proyecto completo]([https://linkedin.com/in/veroestradarobles](https://github.com/vestrada-data/data-analytics/blob/main/mobility_economy_project.ipyn)) 
+[![Proyecto completo]]([https://linkedin.com/in/veroestradarobles](https://github.com/vestrada-data/data-analytics/blob/main/mobility_economy_project.ipyn)) 
 
 <br>
 <br>
