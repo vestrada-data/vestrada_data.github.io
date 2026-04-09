@@ -17,8 +17,8 @@ Análisis de datos | Resolución de problemas | Comunicación efectiva | Trabajo
 
 ### 1️⃣  Análisis de Movilidad vs. Desarrollo Económico (PIB)
 Este proyecto analiza la relación entre el Producto Interno Bruto (PIB) y los indicadores de movilidad, específicamente el retraso en minutos, para identificar cómo el desarrollo económico impacta, o se ve impactado por la eficiencia en el transporte.
-
-<img width="524" height="384" alt="banner_proyecto" src="https://github.com/user-attachments/assets/82fbcbe7-f648-42c0-8f29-c818c92f3a0b" />
+<p align="center">
+<img width="393" height="288" alt="banner_proyecto" src="https://github.com/user-attachments/assets/82fbcbe7-f648-42c0-8f29-c818c92f3a0b" /p>
 
 ###  Herramientas Utilizadas
 ![Python](https://img.shields.io/badge/PYTHON-00599C?style=for-the-badge&logo=python&logoColor=white)
@@ -31,12 +31,11 @@ Este proyecto analiza la relación entre el Producto Interno Bruto (PIB) y los i
 
 ###  Hallazgos Principales 
 <p align="center">
-  <img src="visuals/grafica.png" alt="Distribución del PIB percápita" width="100%">
+<img width="746" height="217" alt="grafica" src="https://github.com/user-attachments/assets/f2d05b4c-9d80-4775-b030-52449c2e18ae" />
 </p>
-No se encontró una relación directa entre el PIB per cápita y la congestión vehicular. 
+No se encontro relación directa entre el PIB per cápita y la congestión vehicular. 
 <p align="center">
-  <img src="visuals/boxplot.png" width="500" title="Boxplot de Retrasos">
-  <br>
+ <img width="420" height="376" alt="boxplot" src="https://github.com/user-attachments/assets/4bcd6f40-0a1b-4710-9228-623cb1988225" />
   <b>Gráfico: Distribución de retrasos en movilidad (Minutos)</b>
 </p>
 
