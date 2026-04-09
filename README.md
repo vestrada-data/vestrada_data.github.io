@@ -33,9 +33,9 @@ Este proyecto analiza la relación entre el Producto Interno Bruto (PIB) y los i
 ![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge&logo=python&logoColor=white)
 
 ### Metodología
--Integración de datos de movilidad (TomTom) y económicos (OECD)
--Análisis exploratorio y detección de outliers
--Visualización de distribuciones y relaciones
+-Integración de datos de movilidad (TomTom) y económicos (OECD)<br>
+-Análisis exploratorio y detección de outliers<br>
+-Visualización de distribuciones y relaciones<br>
 
 ### Hallazgos Principales 
 <br>
@@ -59,7 +59,7 @@ La gráfica revela que no hay una  relación directa entre el PIB per cápita y 
  <br>
 
 
-[![Proyecto](https://img.shields.io/badge/Proyecto completo-Ver%20aquí-0A66C2?logo=linkedin&logoColor=white)]([https://linkedin.com/in/veroestradarobles](https://github.com/vestrada-data/data-analytics/blob/main/mobility_economy_project.ipyn))
+[![Proyecto](https://img.shields.io/badge/Proyecto_completo-Ver%20aquí-0A66C2?logo=linkedin&logoColor=white)]([https://linkedin.com/in/veroestradarobles](https://github.com/vestrada-data/data-analytics/blob/main/mobility_economy_project.ipyn))
 
 <br>
 <br>
