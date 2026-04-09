@@ -95,6 +95,8 @@ Las cohortes muestran una retención D7 entre  80–85%, sobresaliento 2025-03. 
 <p align="center">
 <img width="758" height="409" alt="tasa_retencion2" src="https://github.com/user-attachments/assets/b816a35a-9f13-42c1-816a-b73fd2ce73db" />
 <p/>
+Identifiqué estabilidad en retención hasta julio, con una caída atípica en agosto, sugiriendo posibles cambios recientes en producto, adquisición o calidad de usuarios.
+
 Los resultados indican que las principales oportunidades de optimización se encuentran en reducir la fricción entre la vista del producto y la decisión de compra, así como en implementar estrategias que aumenten la  recurrencia de usuarios después de la primera interacción.  Asi como evaluar categoría del producto, dispositivo y tiempo de navegación para identificar los factores que influyen en el abandono en esta etapa.
 
 
