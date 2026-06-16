@@ -11,7 +11,12 @@ He liderado equipos multidisciplinarios e implementado sistemas de seguimiento p
 - SQL (consultas, JOINs, transformación de datos) 
 - Excel / Google Sheets (análisis, dashboards)
 - Python (Pandas, limpieza y EDA)
-- KPI Analysis  <br>
+- Modelado de Datos y Tabla de Tiempos
+- Creación de métricas en DAX
+- Diseño y planificación
+- Diseño de dashboard ejecutivo
+- Generación de insights para toma de decisiones
+- Narrativa del Dashboard (Modelo SCQA)
  <br>
 📧 veroerobles@gmail.com
 <br>
@@ -20,6 +25,8 @@ He liderado equipos multidisciplinarios e implementado sistemas de seguimiento p
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ver%20perfil-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/veroestradarobles)
 
 # Proyectos seleccionados
+
+
 ![Python](https://img.shields.io/badge/PYTHON-00599C?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
