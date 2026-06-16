@@ -29,7 +29,7 @@ He liderado equipos multidisciplinarios e implementado sistemas de seguimiento p
 - ![Andes Retail Group](https://github.com/vestrada-data/AndesRetail_PowerBI)
 - ![Analisis de una empresa de Telecomunicaciones](https://github.com/vestrada-data/telecom-project)
 - ![Movilidad vs Desarrollo Económico ](https://github.com/vestrada-data/Analisis-de-Movilidad-vs-Desarrollo-)
-- 
+- ![Pipeline de Limpieza] (https://github.com/vestrada-data/everpeak-analysis)
 
 ![Python](https://img.shields.io/badge/PYTHON-00599C?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
