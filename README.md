@@ -27,7 +27,8 @@ He liderado equipos multidisciplinarios e implementado sistemas de seguimiento p
 # Proyectos seleccionados
 
 - ![Andes Retail Group](https://github.com/vestrada-data/AndesRetail_PowerBI)
-- Analisis de una empresa de Telecomunicaciones (https://github.com/vestrada-data/telecom-project)
+- ![Analisis de una empresa de Telecomunicaciones](https://github.com/vestrada-data/telecom-project)
+- ![Movilidad vs Desarrollo Económico ](https://github.com/vestrada-data/Analisis-de-Movilidad-vs-Desarrollo-)
 - 
 
 ![Python](https://img.shields.io/badge/PYTHON-00599C?style=for-the-badge&logo=python&logoColor=white)
