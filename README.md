@@ -1,4 +1,7 @@
 
+<img width="1584" height="396" alt="BannerLK" src="https://github.com/user-attachments/assets/b808ded4-cf9d-4c71-a16e-99343cd4e14a" />
+
+
 [![Email](https://img.shields.io/badge/Email-Contact_Me-2ea44f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:veroerobles@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ver%20perfil-2ea44f?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/veroestradarobles)
