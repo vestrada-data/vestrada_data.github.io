@@ -13,7 +13,7 @@ Analizo y transformo datos en indicadores y dashboards para facilitar la toma de
 
 He liderado equipos multidisciplinarios e implementado sistemas de seguimiento para monitorear el desempeño operativo y académico, identificando oportunidades de mejora.
 
-***Habilidades tecnológicas*** <br>
+***Habilidades *** <br>
 - SQL (consultas, JOINs, transformación de datos) 
 - Excel / Google Sheets 
 - Python (Pandas, limpieza y EDA)
@@ -35,14 +35,20 @@ He liderado equipos multidisciplinarios e implementado sistemas de seguimiento p
 | 🚦 Movilidad vs Desarrollo Económico | Análisis de la relación entre movilidad urbana y desarrollo económico en ciudades latinoamericanas. | Python · Pandas · Google Sheets | [Ver proyecto](https://github.com/vestrada-data/Analisis-de-Movilidad-vs-Desarrollo-) |
 | 🧹 Pipeline de Limpieza | Automatización del proceso de limpieza, transformación y preparación de datos para análisis. | Python · Pandas | [Ver proyecto](https://github.com/vestrada-data/everpeak-analysis) |
 | 🏛 Dashboard Ejecutivo – Museo | Dashboard para monitorear indicadores operativos y comportamiento de visitantes. | Power BI · DAX | [Ver proyecto](https://github.com/vestrada-data/Visitor-Operations-Analytics-Dashboard) |
-***Lenguajes***
+
+
+<br>
+***Lenguajes*** <br>
+
 ![Python](https://img.shields.io/badge/PYTHON-00599C?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white)
-***Análisis***
+
+***Análisis***<brf>
 ![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge&logo=python&logoColor=white)
-***Visualización***
+
+***Visualización***<br>
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
@@ -52,8 +58,5 @@ He liderado equipos multidisciplinarios e implementado sistemas de seguimiento p
 - Ingeniería en Computación – UNAM
 - Maestría en Educación Basada en Competencias – UVM
 
-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vestrada-data&show_icons=true)
-
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vestrada-data&layout=compact)
 
 - ⭐ Siempre estoy aprendiendo nuevas herramientas para convertir datos en información útil para la toma de decisiones.
