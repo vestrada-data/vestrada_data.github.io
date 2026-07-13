@@ -9,7 +9,7 @@ He liderado equipos multidisciplinarios e implementado sistemas de seguimiento p
 
 ***Habilidades tecnológicas*** <br>
 - SQL (consultas, JOINs, transformación de datos) 
-- Excel / Google Sheets (análisis, dashboards)
+- Excel / Google Sheets 
 - Python (Pandas, limpieza y EDA)
 - Modelado de Datos y Tabla de Tiempos
 - Creación de métricas en DAX
