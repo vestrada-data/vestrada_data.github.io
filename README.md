@@ -56,4 +56,4 @@ He liderado equipos multidisciplinarios e implementado sistemas de seguimiento p
 - Maestría en Educación Basada en Competencias – UVM
 
 <br>
-⭐ Siempre estoy aprendiendo nuevas herramientas para convertir datos en información útil para la toma de decisiones.
+⭐ Siempre  aprendiendo nuevas herramientas para convertir datos en información útil para la toma de decisiones.
