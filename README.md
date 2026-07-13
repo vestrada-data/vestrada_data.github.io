@@ -1,5 +1,6 @@
 
-<img width="1584" height="396" alt="BannerLK" src="https://github.com/user-attachments/assets/b808ded4-cf9d-4c71-a16e-99343cd4e14a" />
+<img width="1188" height="297" alt="BannerLK" src="https://github.com/user-attachments/assets/187f8ff8-fb1f-4733-bca7-7a03b1151999" />
+
 
 <p align="center">
   <a href="mailto:veroerobles@gmail.com">
