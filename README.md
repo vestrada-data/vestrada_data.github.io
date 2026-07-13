@@ -16,7 +16,13 @@
 
 <h3 align="center">Data Analyst | SQL | Python | Power BI</h3>
  
-Data Analyst con formación en Ingeniería en Computación y experiencia en análisis de datos, definición de KPIs y creación de dashboards ejecutivos. Transformo datos en información accionable para apoyar la toma de decisiones y la mejora de procesos mediante SQL, Python y Power BI.
+##
+
+Creo que los datos generan valor cuando ayudan a responder las preguntas correctas.
+
+Soy Ingeniera en Computación con experiencia en desarrollo de sistemas, liderazgo y análisis de información. Actualmente estoy especializándome en Data Analytics mediante proyectos desarrollados con SQL, Python y Power BI.
+
+Disfruto transformar datos en insights que permitan comprender el negocio, identificar oportunidades y facilitar la toma de decisiones mediante dashboards e indicadores claros y accionables.
 
 # Proyectos seleccionados
 
