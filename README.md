@@ -1,7 +1,9 @@
 
 ![BannerLK](https://github.com/user-attachments/assets/958cf942-028d-4085-b80b-77ec408a2289)
 
-# Acerca de mí  
+
+
+ 
  
 Analizo y transformo datos en indicadores y dashboards para facilitar la toma de decisiones. Mi enfoque combina la ingeniería en sistemas con la definición de KPIs y la visualización de información para optimizar procesos.
 
@@ -18,19 +20,17 @@ He liderado equipos multidisciplinarios e implementado sistemas de seguimiento p
 - Generación de insights para toma de decisiones
 - Narrativa del Dashboard (Modelo SCQA)
  <br>
-📧 veroerobles@gmail.com
-<br>
-<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ver%20perfil-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/veroestradarobles)
 
 # Proyectos seleccionados
 
- ![Andes Retail Group](https://github.com/vestrada-data/AndesRetail_PowerBI)
- ![Analisis de una empresa de Telecomunicaciones](https://github.com/vestrada-data/telecom-project)
- ![Movilidad vs Desarrollo Económico ](https://github.com/vestrada-data/Analisis-de-Movilidad-vs-Desarrollo-)
- ![Pipeline de Limpieza](https://github.com/vestrada-data/everpeak-analysis)
- ![Dashboard Ejecutivo - Museo](https://github.com/vestrada-data/Visitor-Operations-Analytics-Dashboard)
+ | Proyecto | Descripción | Tecnologías | Enlace |
+|----------|-------------|-------------|--------|
+| 📊 Andes Retail Group | Dashboard ejecutivo para analizar ventas, rentabilidad y KPIs comerciales mediante visualizaciones interactivas. | Power BI · DAX | [Ver proyecto](https://github.com/vestrada-data/AndesRetail_PowerBI) |
+| 📡 Telecom Analysis | Análisis de abandono de clientes (Churn) utilizando SQL y Python para identificar factores clave. | Python · SQL | [Ver proyecto](https://github.com/vestrada-data/telecom-project) |
+| 🚦 Movilidad vs Desarrollo Económico | Análisis de la relación entre movilidad urbana y desarrollo económico en ciudades latinoamericanas. | Python · Pandas · Google Sheets | [Ver proyecto](https://github.com/vestrada-data/Analisis-de-Movilidad-vs-Desarrollo-) |
+| 🧹 Pipeline de Limpieza | Automatización del proceso de limpieza, transformación y preparación de datos para análisis. | Python · Pandas | [Ver proyecto](https://github.com/vestrada-data/everpeak-analysis) |
+| 🏛 Dashboard Ejecutivo – Museo | Dashboard para monitorear indicadores operativos y comportamiento de visitantes. | Power BI · DAX | [Ver proyecto](https://github.com/vestrada-data/Visitor-Operations-Analytics-Dashboard) |
 
 ![Python](https://img.shields.io/badge/PYTHON-00599C?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
