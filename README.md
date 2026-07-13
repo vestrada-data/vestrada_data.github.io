@@ -47,8 +47,7 @@ Data Analyst con formación en Ingeniería en Computación y experiencia en aná
 ![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 
-
-- 
+<br>
 ## 📜 Certificaciones
 
 - TripleTen – Data Analyst Bootcamp
