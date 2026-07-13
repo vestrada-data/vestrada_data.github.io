@@ -36,14 +36,11 @@ He liderado equipos multidisciplinarios e implementado sistemas de seguimiento p
 | 🧹 Pipeline de Limpieza | Automatización del proceso de limpieza, transformación y preparación de datos para análisis. | Python · Pandas | [Ver proyecto](https://github.com/vestrada-data/everpeak-analysis) |
 | 🏛 Dashboard Ejecutivo – Museo | Dashboard para monitorear indicadores operativos y comportamiento de visitantes. | Power BI · DAX | [Ver proyecto](https://github.com/vestrada-data/Visitor-Operations-Analytics-Dashboard) |
 
-
-<br>
-***Lenguajes*** <br>
-
+***Lenguajes***<br>
 ![Python](https://img.shields.io/badge/PYTHON-00599C?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white)
 
-***Análisis***<brf>
+***Análisis***<br>
 ![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge&logo=python&logoColor=white)
