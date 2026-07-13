@@ -55,5 +55,5 @@ He liderado equipos multidisciplinarios e implementado sistemas de seguimiento p
 - Ingeniería en Computación – UNAM
 - Maestría en Educación Basada en Competencias – UVM
 
-
-- ⭐ Siempre estoy aprendiendo nuevas herramientas para convertir datos en información útil para la toma de decisiones.
+<br>
+⭐ Siempre estoy aprendiendo nuevas herramientas para convertir datos en información útil para la toma de decisiones.
