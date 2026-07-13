@@ -4,7 +4,8 @@
 
 [![Email](https://img.shields.io/badge/Email-Contact_Me-2ea44f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:veroerobles@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ver%20perfil-2ea44f?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/veroestradarobles)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ver%20perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/veroestradarobles)
  <h1 align="center">Verónica Estrada</h1>
 
 <h3 align="center">Data Analyst | SQL | Python | Power BI</h3>
