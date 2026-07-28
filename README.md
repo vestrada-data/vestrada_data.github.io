@@ -37,6 +37,8 @@ Disfruto transformar datos en insights que permitan comprender el negocio, ident
 
 ***Competencias***<br>
 - KPI Design
+- impieza y EDA
+- Data Visualization
 - Dashboard Design
 - Storytelling (SCQA)
 
