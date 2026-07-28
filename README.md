@@ -57,7 +57,7 @@ Disfruto transformar datos en insights que permitan comprender el negocio, ident
 <br>
 ## 📜 Certificaciones
 
-- TripleTen – Data Analyst Bootcamp
+- TripleTen – Data Analyst (2026)
 - Ingeniería en Computación – UNAM
 - Maestría en Educación Basada en Competencias – UVM
 
