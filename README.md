@@ -55,7 +55,7 @@ Disfruto transformar datos en insights que permitan comprender el negocio, ident
 
 
 <br>
-## 📜 Certificaciones
+##📜 Certificaciones
 
 - TripleTen – Data Analyst (2026)
 - Ingeniería en Computación – UNAM
