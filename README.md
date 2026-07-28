@@ -21,7 +21,7 @@
 
 Creo que los datos generan valor cuando ayudan a responder las preguntas correctas.
 
-Soy Ingeniera en Computación con experiencia en desarrollo de sistemas, liderazgo y análisis de información. Actualmente estoy especializándome en Data Analytics mediante proyectos desarrollados con SQL, Python y Power BI.
+Soy Ingeniera en Computación con experiencia en desarrollo de sistemas, liderazgo y análisis de información. Certificada como  Data Analyst, con experiencia en  proyectos desarrollados con SQL, Python y Power BI.
 
 Disfruto transformar datos en insights que permitan comprender el negocio, identificar oportunidades y facilitar la toma de decisiones mediante dashboards e indicadores claros y accionables.
 
