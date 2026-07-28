@@ -54,10 +54,9 @@ Disfruto transformar datos en insights que permitan comprender el negocio, ident
 ![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 
-<br>
-##📜 Certificaciones
 
-- TripleTen – Data Analyst (2026)
+***📜 Certificaciones*** 
+- TripleTen – Data Analyst (2026)  
 - Ingeniería en Computación – UNAM
 - Maestría en Educación Basada en Competencias – UVM
 
