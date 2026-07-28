@@ -15,7 +15,7 @@
 
  <h1 align="center">Verónica Estrada</h1>
 
-<h3 align="center">Data Analyst | SQL | Python | Power BI</h3>
+<h3 align="center">Data Analyst | SQL | Python | Power BI |  KPIs & Dashboards </h3>
  
 ##
 
