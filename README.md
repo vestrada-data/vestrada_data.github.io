@@ -57,8 +57,8 @@ Disfruto transformar datos en insights que permitan comprender el negocio, ident
 
 ***📜 Certificaciones*** 
 - TripleTen – Data Analyst (2026)  
-- Ingeniería en Computación – UNAM
-- Maestría en Educación Basada en Competencias – UVM
+- Maestría en Educación Basada en Competencias – UVM (2018-2020)
+- Ingeniería en Computación – UNAM (1990-1994)
 
 <br>
-⭐ Siempre  aprendiendo nuevas herramientas para convertir datos en información útil para la toma de decisiones.
+⭐ Aprendiendo nuevas herramientas para convertir datos en información útil para la toma de decisiones.
