@@ -30,10 +30,10 @@ Disfruto transformar datos en insights que permitan comprender el negocio, ident
  | Proyecto | Descripción | Tecnologías | Enlace |
 |----------|-------------|-------------|--------|
 | 📊 Andes Retail Group | Dashboard ejecutivo para analizar ventas, rentabilidad y KPIs comerciales mediante visualizaciones interactivas. | Power BI · DAX | [Ver proyecto](https://github.com/vestrada-data/AndesRetail_PowerBI) |
+| 🏛 Análisis Comercial | Dashboard para monitorear indicadores operativos y comportamiento de visitantes. | Power BI · DAX | [Ver proyecto](https://github.com/vestrada-data/Analisis_Comercial)|
 | 📡 Telecom Analysis | Análisis de abandono de clientes (Churn) utilizando SQL y Python para identificar factores clave. | Python · SQL | [Ver proyecto](https://github.com/vestrada-data/telecom-project) |
-| 🚦 Movilidad vs Desarrollo Económico | Análisis de la relación entre movilidad urbana y desarrollo económico en ciudades latinoamericanas. | Python · Pandas · Google Sheets | [Ver proyecto](https://github.com/vestrada-data/Analisis-de-Movilidad-vs-Desarrollo-) |
-| 🧹 Pipeline de Limpieza | Automatización del proceso de limpieza, transformación y preparación de datos para análisis. | Python · Pandas | [Ver proyecto](https://github.com/vestrada-data/everpeak-analysis) |
-| 🏛 Dashboard Ejecutivo – Museo | Dashboard para monitorear indicadores operativos y comportamiento de visitantes. | Power BI · DAX | [Ver proyecto](https://github.com/vestrada-data/Visitor-Operations-Analytics-Dashboard) |
+| 🚦 Movilidad vs Desarrollo Económico | Análisis de la relación entre movilidad urbana y desarrollo económico en ciudades latinoamericanas. | Python · Pandas · Google Sheets | [Ver proyecto](https://github.com/vestrada-data/Analisis-de-Movilidad-vs-Desarrollo-) | |
+
 
 ***Competencias***<br>
 - KPI Design
@@ -61,4 +61,4 @@ Disfruto transformar datos en insights que permitan comprender el negocio, ident
 - Ingeniería en Computación – UNAM (1990-1994)
 
 <br>
-⭐ Aprendiendo nuevas herramientas para convertir datos en información útil para la toma de decisiones.
+⭐ Siempre aprendiendo para convertir datos en información útil para la toma de decisiones.
